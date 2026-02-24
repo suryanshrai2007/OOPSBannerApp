@@ -4,7 +4,7 @@
  * This class demostrata a simple java application that displays the Object
  * Oriented Programming System OOPS acronym to the console.
  * 
- * @author Jayant Singh
+ * @author Suryansh Rai
  * @version 1.0
  * 
  */
